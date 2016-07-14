@@ -1,5 +1,7 @@
+// require react
 var React = require('react');
 
+// define the ListItem blueprints
 var ListItem = React.createClass({
   render(){
     return (
@@ -10,4 +12,5 @@ var ListItem = React.createClass({
   }
 });
 
+// export the module
 module.exports = ListItem;
