@@ -4,7 +4,7 @@ import RaisedButton from 'material-ui/RaisedButton';
 const Button = React.createClass({
   render(){
     return(
-      <RaisedButton label="Default" />
+      <RaisedButton label={this.props.label} />
     );
   }
 });

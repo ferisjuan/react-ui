@@ -8,7 +8,7 @@ const Cards = React.createClass({
       <Card>
         <CardHeader
           title="No avatar"
-          Subtitle="Subtitle"
+          subtitle="Subtitle"
           actAsExpander={true}
           showExpandableButton={true}
         />

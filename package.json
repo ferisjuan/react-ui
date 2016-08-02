@@ -2,7 +2,7 @@
   "name": "react-ui",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "public/index.html",
   "scripts": {
     "start": "webpack",
     "less": "less-watch-compiler less public/css/"
